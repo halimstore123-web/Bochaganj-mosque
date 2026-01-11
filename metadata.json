@@ -1,0 +1,11 @@
+{
+  "name": "Copy of বোচাগঞ্জ মসজিদ ম্যানেজমেন্ট সিস্টেম",
+  "short_name": "BMMS ERP",
+  "description": "Professional mosque ERP with donation portal, member dashboards, POS terminal, and forensic accounting.",
+  "theme_color": "#0B6623",
+  "background_color": "#f8faf9",
+  "display": "standalone",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
